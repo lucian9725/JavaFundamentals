@@ -14,7 +14,6 @@ public class Cmmdc {
             a = b;
             b = rest;
 
-            System.out.println("a = " + a + ", b = " + b, ", rest = " + rest);
         }
         return a;
     }

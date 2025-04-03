@@ -22,7 +22,7 @@ package task13;
 
 import java.util.Scanner;
 
-public class StutterText {
+public class ShutterText {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
